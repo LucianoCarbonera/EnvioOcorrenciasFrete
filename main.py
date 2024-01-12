@@ -1,5 +1,4 @@
-# -----------------------------------------------------------------------------+
-# Alfa Transportes Eireli                                                      |
+# -----------------------------------------------------------------------------+                                                    |
 # Integração SimFretes - Envio automatizado                                    |
 # Cacador, 12 de Agosto de 2021                                                |
 # Luciano Carbonera                                                            |
